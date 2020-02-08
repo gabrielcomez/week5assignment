@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/gabrielcomez/week5assignment/issues"
   },
-  "homepage": "https://github.com/gabrielcomez/week5assignment#readme"
+  "homepage": "https://github.com/gabrielcomez/week5assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.18.1",
+    "sequelize": "^5.21.4"
+  }
 }
