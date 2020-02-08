@@ -1,0 +1,19 @@
+{
+  "name": "006rest_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "messages-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcomez/week5assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcomez/week5assignment/issues"
+  },
+  "homepage": "https://github.com/gabrielcomez/week5assignment#readme"
+}
